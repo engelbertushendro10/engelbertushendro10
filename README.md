@@ -2,8 +2,8 @@
 <h3 align="center">Android Developer</h3>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=engelbertushendro10&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engelbertushendro10&layout=compact" height=150 />
+    <img src="https://github-readme-stats.vercel.app/api?username=engelbertushendro10&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engelbertushendro10&layout=compact" height=150 width="300"/>
 </p>
 
 
