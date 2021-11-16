@@ -8,7 +8,12 @@
 
 
 ### ⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt
-<br><img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png"                 height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png"
+<br>
+img alt="chrome" title="Python" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"
+height="24">
+img alt="chrome" title="Python" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"
+height="24">
+<img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png"                 height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png"
 height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Kotlin" title="Kotlink" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"
 height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="KotlinStudio" title="Android Studio" src="https://www.vectorlogo.zone/logos/android/android-official.svg"
 height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Node.js" title="Node.js" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
