@@ -17,4 +17,7 @@ height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Github" title="Github" src="https:
 height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="vscode" title="VS Code" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"
 height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="git" title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
 height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="chrome" title="Chrome" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" height="24">
+height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="chrome" title="Chrome" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" height="24">
+height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="chrome" title="Chrome" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" height="24">
+
 <br><br>
