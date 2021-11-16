@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Engelbertus Hendro</h1>
-<h3 align="center">Android Developer</h3>
+<h3 align="center">Android Developer | WEB Developer</h3>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=engelbertushendro10&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" width="400"/>
